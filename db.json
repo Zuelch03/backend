@@ -1,16 +1,106 @@
 {
-  "posts":[
+  "contacts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": "AA123",
+      "site": "LGB6",
+      "site_manager": "Jerick",
+      "photo": "https://gulfbeachweddings.com/wp-content/uploads/2018/03/amazon-logo-1.png",
+      "phone": "9099990000",
+      "email": "jerickt@amazon.com",
+      "vendor": "Sweetwater",
+      "groupId": "1",
+      "vendor_phone": "8888888888",
+      "vendor_email": "name@sweetwater.com"
+    },
+    {
+      "site": "LGB6",
+      "site_manager": "Jerick",
+      "photo": "https://patch.com/img/cdn20/users/22843174/20170216/120414/styles/raw/public/article_images/cw_services_logo-1487264598-1313.jpg",
+      "phone": "909-999-9999",
+      "email": "jerickt@amazon.com",
+      "vendor": "Orange Coast",
+      "groupId": "2",
+      "vendor_phone": "888-888-8888",
+      "vendor_email": "orange@orange.com",
+      "id": "zwMip-7"
+    },
+    {
+      "site": "LAX9",
+      "site_manager": "John",
+      "photo": "http://aircontrolsystems.net/wp-content/uploads/2017/11/ACSlogo_Horizontal_RGB-copy.png",
+      "phone": "999-999-9099",
+      "email": "johnsmith@hello.com",
+      "vendor": "Air Control",
+      "groupId": "3",
+      "vendor_phone": "888-888-8888",
+      "vendor_email": "orange@orange.com",
+      "id": "LSjDNDl"
+    },
+    {
+      "site": "LAX9",
+      "site_manager": "Terry",
+      "photo": "https://gulfbeachweddings.com/wp-content/uploads/2018/03/amazon-logo-1.png",
+      "phone": "999-999-9999",
+      "email": "Terry@amazon.com",
+      "vendor": "Wheeler",
+      "groupId": "7",
+      "vendor_phone": "888-888-8888",
+      "vendor_email": "eee@wheeler.com",
+      "id": "3B3TD3w"
+    },
+    {
+      "site": "JFK8",
+      "site_manager": "John",
+      "photo": "https://gulfbeachweddings.com/wp-content/uploads/2018/03/amazon-logo-1.png",
+      "phone": "999-999-9099",
+      "email": "johnsmith@hello.com",
+      "vendor": "Schneider",
+      "groupId": "5",
+      "vendor_phone": "888-888-8888",
+      "vendor_email": "hello@hello.com",
+      "id": "66GlZQS"
+    },
+    {
+      "site": "JFK8",
+      "site_manager": "John",
+      "photo": "https://patch.com/img/cdn20/users/22843174/20170216/120414/styles/raw/public/article_images/cw_services_logo-1487264598-1313.jpg",
+      "phone": "999-999-9099",
+      "email": "johnsmith@hello.com",
+      "vendor": "Orange Coast",
+      "groupId": "2",
+      "vendor_phone": "888-888-8888",
+      "vendor_email": "orange@orange.com",
+      "id": "e-MqdkP"
     }
   ],
-  "comments" : [
+  "groups": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "1",
+      "name": "PLUMBING"
+    },
+    {
+      "id": "2",
+      "name": "ELECTRICAL"
+    },
+    {
+      "id": "3",
+      "name": "HVAC"
+    },
+    {
+      "id": "4",
+      "name": "DOCK DOORS"
+    },
+    {
+      "id": "5",
+      "name": "GENERATORS"
+    },
+    {
+      "id": "6",
+      "name": "PROJECTS"
+    },
+    {
+      "id": "7",
+      "name": "AUGER/BAILERS"
     }
   ]
 }
